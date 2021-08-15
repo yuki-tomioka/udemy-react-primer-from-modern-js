@@ -149,7 +149,7 @@
 /**
  * mapやfilterを使った配列の処理
  */
-const nameArr = ["tanaka", "yamada", "tomioka"];
+// const nameArr = ["tanaka", "yamada", "tomioka"];
 // for (let index = 0; index < nameArr.length; index++) {
 //   console.log(`${index + 1}番目は${nameArr[index]}です`);
 // }
